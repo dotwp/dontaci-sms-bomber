@@ -8,7 +8,7 @@
 git clone 
 cd \dontaçi-sms-boomb
 pip3 install -r requirements.txt
-py astesms.py
+py dontaci.py
 ```
 
 <h2>Kurulum Videosu</h2>
