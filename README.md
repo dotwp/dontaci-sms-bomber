@@ -5,7 +5,7 @@
 <h2>Kurulum</h2>
 
 ```console
-git clone 
+git clone https://github.com/dotwp/dontaci-sms-bomber
 cd \dontaçi-sms-boomb
 pip3 install -r requirements.txt
 py dontaci.py
