@@ -14,4 +14,4 @@ py dontaci.py
 <h2>Kurulum Videosu</h2>
 
 
-<h2>virustotal![image](https://user-images.githubusercontent.com/107762648/213560542-2718d47c-66bd-471c-bc67-3fcccdbd0a17.png)</h2>
+<h2>virustotal</h2>
